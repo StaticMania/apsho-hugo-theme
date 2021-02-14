@@ -2,7 +2,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Apsho | App landing template"
-theme = "apsho"
+theme = "apsho-hugo-theme"
 
 # Navigation Bar
 [[menu.main]]
