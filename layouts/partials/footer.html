@@ -51,7 +51,7 @@
           <p>
             {{ .Site.Params.copyright1 }}
               </br>
-            {{ .Site.Params.copyright2 }}
+            {{ replace .Site.Params.copyright2   "{year}" now.Year | safeHTML }}
           </p>
           <ul class="footer-description-social">
             <li>
