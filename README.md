@@ -31,7 +31,7 @@ $ git clone https://github.com/StaticMania/apsho-hugo-theme.git
 - Blog Support.
 - Well formatted code.
 - Easy Customization.
-- Formspree Contact form.
+- FabForm.io [static website forms](https://fabform.io).
 - Google Analytics.
 - Forestry Integrated.
 - Crafted for Personal Portfolio
