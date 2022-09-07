@@ -56,7 +56,9 @@ github = "https://github.com/StaticMania"
 
 # Header
 logo = "images/logo.png"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
+# We're using fabform.io for form handling, paste your fabform.io endpoint below
+# You can get a free account by visiting https://fabform.io
+fabformURL  = "https://fabform.io/f/<insert-fabform.io-endpoint-here>"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
